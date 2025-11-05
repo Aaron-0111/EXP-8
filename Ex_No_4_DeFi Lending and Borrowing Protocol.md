@@ -1,6 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
-### NAME: HARITHA RAMESH
-### REG NO:212223100011
+### NAME: AARON RAJESH R
+### REG NO:212223100001
 ### DEPARTMENT:CSE(CYBER SECURITY)
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
